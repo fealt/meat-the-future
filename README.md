@@ -55,8 +55,7 @@
 
 ## Links
 
-
-![](images/vegetables_the_future_github.gif)
+![](images/vegetables_the_future_github.png)
 
 ###### <i>image [source](https://commons.wikimedia.org/wiki/File:Arcimboldo_Oto%C3%B1o.jpg)</i>
 

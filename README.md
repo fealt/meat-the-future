@@ -22,25 +22,53 @@
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
-- [Links](#links)
 - [Tech](#tech)
 
 <a name="project-description"></a>
 
 ## Project Description
 
+```
+
+▫️ In 1896, a seminal paper by Swedish scientist Svante Arrhenius first predicted that changes in atmospheric
+carbon dioxide levels could substantially alter the surface temperature through the greenhouse effect.
+Source: [NASA](https://climate.nasa.gov/evidence/)
+
+In 1938, Guy Callendar connected carbon dioxide increases in Earth’s atmosphere to global warming. In 1941, Milutin Milankovic linked ice ages to Earth’s orbital characteristics. Gilbert Plass formulated the Carbon Dioxide Theory of Climate Change in 1956.
+
+▫️ To date, all of its other houses are built in "safe" beaches – with no sight of sharks.
+
+▫️ Main clientèle – all kinds of families, with/without kids.
+
+```
+
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
 
+```
+
+▫️ oi
+
+▫️ To date, all of its other houses are built in "safe" beaches – with no sight of sharks.
+
+▫️ Main clientèle – all kinds of families, with/without kids.
+
+```
 
 <a name="dataset"></a>
 
 ## Dataset
 
+▫️ [Food and Agriculture Organization of the United Nations](http://www.fao.org)
 
-[Dataset]() 
+▫️ [The World Bank API](https://datahelpdesk.worldbank.org/)
+
+▫️ [WBGAPI](https://pypi.org/project/wbgapi/) – pythonic access to the World Bank's data API
+
+▫️ [Our World in Data](https://ourworldindata.org/)
+
 
 <a name="workflow"></a>
 
@@ -52,21 +80,19 @@
 ## Organization
 
 
-<a name="links"></a>
-
-## Links
-
-<a name="links"></a>
 
 
-## Tech
 
 <a name="tech"></a>
 
+## Tech
+
    - Python @ Jupyter Notebook
    - Pandas / Numpy
-   - Geopy / Nominatium (Python client for geocoding)
-   - Viz: seabron / plotly
+   - API / web scraping
+   - Tableau
+
+<br>
 
 ![](images/vegetables_the_future_github.png)
 

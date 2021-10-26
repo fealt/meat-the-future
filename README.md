@@ -12,7 +12,7 @@
 
 > ⏰ <i>Time's short?</i>
 >
-> 👉 [Click here to check my presentation](missing_link), hosted by Tableau ♡
+> 👉 [Click here to check my presentation](https://public.tableau.com/app/profile/altermann/viz/Ironhack_Bootcamp_Project_2_meat_the_future/meat_the_future), hosted by Tableau ♡
 
 <br>
 
@@ -28,6 +28,8 @@
 
 ## Project Description
 
+Let's check some important history facts about climate change.
+
 ```
 
 ▫️ In 1896, a seminal paper by Swedish scientist Svante Arrhenius first predicted that changes in atmospheric
@@ -37,8 +39,18 @@ carbon dioxide levels could substantially alter the surface temperature through 
 
 ▫️ In 1956, Gilbert Plass formulated the Carbon Dioxide Theory of Climate Change.
 
+▫️ The planet's average surface temperature has risen about 2.12 degrees Fahrenheit (1.18 degrees Celsius)
+since the late 19th century, a change driven largely by increased carbon dioxide emissions into the
+atmosphere and other human activities.
+
+▫️ Most of the warming occurred in the past 40 years, with the seven most recent years being the warmest.
+
+▫️ The years 2016 and 2020 are tied for the warmest year on record. 
+
 ```
 Source: [NASA](https://climate.nasa.gov/evidence/)
+
+
 
 
 <a name="hypotheses-/-questions"></a>

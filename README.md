@@ -23,6 +23,7 @@
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
+- [Tech](#tech)
 
 <a name="project-description"></a>
 
@@ -54,6 +55,18 @@
 <a name="links"></a>
 
 ## Links
+
+<a name="links"></a>
+
+
+## Tech
+
+<a name="tech"></a>
+
+   - Python @ Jupyter Notebook
+   - Pandas / Numpy
+   - Geopy / Nominatium (Python client for geocoding)
+   - Viz: seabron / plotly
 
 ![](images/vegetables_the_future_github.png)
 

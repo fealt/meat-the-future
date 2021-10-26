@@ -47,11 +47,7 @@ Source: [NASA](https://climate.nasa.gov/evidence/)
 
 ```
 
-▫️ oi
-
-▫️ To date, all of its other houses are built in "safe" beaches – with no sight of sharks.
-
-▫️ Main clientèle – all kinds of families, with/without kids.
+▫️ tba
 
 ```
 

@@ -40,9 +40,9 @@ warming.
 
 ▫️ In 1956, Gilbert Plass formulated the Carbon Dioxide Theory of Climate Change.
 
-▫️ The planet's average surface temperature has risen about 1.18 degrees Celsius since the late
-19th century, a change driven largely by increased carbon dioxide emissions into the atmosphere
-and other human activities.
+▫️ The planet's average surface temperature has risen about 1.18 degrees Celsius since the
+late 19th century, a change driven largely by increased carbon dioxide emissions into the
+atmosphere and other human activities.
 
 ▫️ Most of the warming occurred in the past 40 years, with the seven most recent years being
 the warmest.
@@ -60,21 +60,13 @@ the warmest.
 
 <br>
 
-Since the industrial revolution (1950) atmospheric carbon dioxide (CO2) have been above a level never surpassed before in history.
-
-
-
-
-
-<br>
-
 <a name="goals"></a>
 
 ## Goals
 
 ```
 
-▫️ Research and analyse data (API / web scraping)
+▫️ Research, collect and analyse data (API / web scraping)
 
 ▫️ Apply the programming and statistical techniques
 
@@ -96,7 +88,7 @@ Since the industrial revolution (1950) atmospheric carbon dioxide (CO2) have bee
    - `meat_veg_tonnes.csv`
    - `wb_population.csv`
 
-* Data analysis in Jupyter notebook:
+* Data analysis in Jupyter Notebook:
    - `project_02_ironhack_meat_the_future_api.ipynb`
    - `project_02_ironhack_meat_the_future_data.ipynb`
  

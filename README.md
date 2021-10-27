@@ -50,9 +50,15 @@ the warmest.
 ▫️ The years 2016 and 2020 are tied for the warmest year on record. 
 
 ```
-Source: [NASA](https://climate.nasa.gov/evidence/)
+###### Source: [NASA](https://climate.nasa.gov/evidence/)
+
+<br>
 
 ![](images/cover_meat_the_future.png)
+
+###### Beef image source: Shutterstock.
+
+<br>
 
 Since the industrial revolution (1950) atmospheric carbon dioxide (CO2) have been above a level never surpassed before in history.
 
@@ -128,5 +134,5 @@ Since the industrial revolution (1950) atmospheric carbon dioxide (CO2) have bee
 
 ![](images/vegetables_the_future_github.png)
 
-Painting image [source](https://commons.wikimedia.org/wiki/File:Arcimboldo_Oto%C3%B1o.jpg)
+###### Painting image [source](https://commons.wikimedia.org/wiki/File:Arcimboldo_Oto%C3%B1o.jpg)
 
